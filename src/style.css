@@ -26,3 +26,12 @@ img {
   text-decoration: none;
   border-radius: 3px;
 }
+
+.contactlink {
+  font-size: 25px;
+  color: rgb(25, 121, 108);
+}
+
+.contactlink:hover {
+  color: rgb(2, 68, 59);
+}
