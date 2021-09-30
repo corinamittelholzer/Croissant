@@ -25,6 +25,11 @@ img {
   margin-top: 40px;
   text-decoration: none;
   border-radius: 3px;
+  box-shadow: 2px 2px 4px rgb(103, 105, 105);
+}
+
+.navigationlinks a:hover {
+  background-color: rgb(45, 97, 90);
 }
 
 .contactlink {
@@ -33,5 +38,5 @@ img {
 }
 
 .contactlink:hover {
-  color: rgb(2, 68, 59);
+  color: rgb(45, 97, 90);
 }
